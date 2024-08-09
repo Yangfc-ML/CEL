@@ -1,3 +1,5 @@
+![framework](resources/framework.png)
+
 **Run CIFAR-100**
 
 ```
