@@ -1,5 +1,8 @@
 ![framework](resources/framework.png)
 
+@inproceedings{NLR, author = {Fuchao Yang and Jianhong Cheng and Yuheng Jia and Hui Liu and Yongqiang Dong and Junhui Hou}, title = {Mixed Blessing: Class-Wise Embedding guided
+Instance-Dependent Partial Label Learning}, booktitle = {{KDD}}, publisher = {{ACM}}, year = {2025} }
+
 **Run CIFAR-100**
 
 ```
