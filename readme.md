@@ -3,6 +3,18 @@
 @inproceedings{author = {Fuchao Yang and Jianhong Cheng and Hui Liu and Yongqiang Dong and Yuheng Jia and Junhui Hou}, title = {Mixed Blessing: Class-Wise Embedding guided
 Instance-Dependent Partial Label Learning}, booktitle = {{KDD}}, publisher = {{ACM}}, year = {2025} }
 
+**Version**
+
+python==3.8.17
+
+torch==1.13.1+cu117
+
+torchaudio==0.13.1+cu117
+
+torchvision==0.14.1+cu117
+
+numpy==1.21.5
+
 **Run CIFAR-100**
 
 ```
